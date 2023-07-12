@@ -20,6 +20,7 @@ Una forma de escribir más simple, regular, respetando la forma tradicional de e
 - mayúsculas para nombres personales e inicios de frase
 - prgunta con solo ? final
 - [abecedario](abecedario.md)
+- m delante de p y b
 - n m ========
 
 ## cambios NO implementados
