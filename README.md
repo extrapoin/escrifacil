@@ -10,7 +10,7 @@ Una forma de escribir más simple, regular, respetando la forma tradicional de e
 |gi ge|güi güe|simplificado|
 |no|´|solo cuando sea necesario (ái aí)(écho echó)|
 |no|h|no se pronuncia mayoritariamente|
-|y|y ll|no se diferencian mayoritariamente|
+|y|y ll|(discutible)no se diferencian mayoritariamente|
 |i|i y|i por y|
 
 ## recomendaciones 
