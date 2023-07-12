@@ -11,6 +11,7 @@ Una forma de escribir más simple, regular y respetando la forma tradicional de 
 |no|'|solo cuando sea necesario|
 |no|h|no se pronuncia mayoritariamente|
 |y|y ll|no se diferencian mayoritariamente|
+|i|i y|rei por rey|
 
 ## recomendaciones 
 - formas regulares (imprimido>impreso)
