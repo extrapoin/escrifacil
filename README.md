@@ -26,3 +26,5 @@ Una forma de escribir más simple, regular y respetando la forma tradicional de 
 |r rr|no causa problemas|
 |ch|no causa problemas|
 |x|no causa problemas|
+
+puntuación 
