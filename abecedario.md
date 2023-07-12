@@ -20,7 +20,7 @@
 |q|cu|
 |r|re|
 |s|se|
-|t|tw|
+|t|te|
 |u|u
 |v|ube|
 |w|ube doble|
