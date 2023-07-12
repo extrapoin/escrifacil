@@ -13,13 +13,13 @@ Una forma de escribir más simple, regular y respetando la forma tradicional de 
 
 
 
-## posibles cambios
+## posibles cambios no implementados
 |posible|razón|
 |-|-|
-|s z|mayoría no diferencian|
-|r rr||
-ch
-x
+|s z|mayoría no diferencian s y z|
+|r rr|no causa problemas|
+|ch|no causa problemas|
+|x|no causa problemas|
 
 impreso imprimido
 ueco weco
