@@ -18,6 +18,8 @@ Una mejor forma de escribir
 |-|-|
 |s z|mayoría no diferencian|
 |r rr||
+ch
+x
 
 impreso imprimido
 ueco weco
