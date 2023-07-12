@@ -7,13 +7,17 @@ Una forma de escribir más simple, regular y respetando la forma tradicional de 
 |c|c k qu|no hay diferencias. c más común y fácil de escribir|
 |ze zi|ce ci|ajuste a pronunciación|
 |je ji|ge gi|ajuste a pronunciación|
+|gi ge|güi güe|simplificado|
 |no|'|solo cuando sea necesario|
 |no|h|no se pronuncia mayoritariamente|
 |y|y ll|no se diferencian mayoritariamente|
 
+## recomendaciones 
+- formas regulares (imprimido>impreso)
+ajuste a la pronunciación (Madriz>Madrid) respetando tradicional (ueco>gueco)
+mayúsculas para nombres personales e inicios de frase
 
-
-##posibles cambios no implementados
+## cambios NO implementados
 |posible|razón|
 |-|-|
 |s z|mayoría no diferencian s y z|
@@ -21,6 +25,5 @@ Una forma de escribir más simple, regular y respetando la forma tradicional de 
 |ch|no causa problemas|
 |x|no causa problemas|
 
-impreso imprimido
+
 ueco weco
-madriz
