@@ -13,11 +13,11 @@ Una forma de escribir más simple, regular, respetando la forma tradicional de e
 |y|y ll|(discutible)no se diferencian mayoritariamente|
 |i|i y|i por y|
 
-## recomendaciones 
+## recomendaciones
+- [abecedario](abecedario.md)
 - formas regulares (imprimido>impreso)
 - ajuste a la pronunciación (Madriz>Madrid)
 - respetando tradicional (ueco>gueco)
 - mayúsculas para nombres personales e inicios de frase
 - prgunta con solo ? final
-- [abecedario](abecedario.md)
 - m delante de p y b
