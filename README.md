@@ -8,7 +8,7 @@ Una forma de escribir más simple, regular, respetando la forma tradicional de e
 |ze zi|ce ci|ajuste a pronunciación|
 |je ji|ge gi|ajuste a pronunciación|
 |gi ge|güi güe|simplificado|
-|no|'|solo cuando sea necesario (ái aí)(écho echó)|
+|no|´|solo cuando sea necesario (ái aí)(écho echó)|
 |no|h|no se pronuncia mayoritariamente|
 |y|y ll|no se diferencian mayoritariamente|
 |i|i y|i por y|
