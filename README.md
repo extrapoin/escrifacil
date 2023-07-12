@@ -1,5 +1,5 @@
 # escrifacil
-Una mejor forma de escribir
+Una forma de escribir más simple, regular y respetando la forma tradicional de escritura y formas más comunes de los hablantes
 
 |escrifacil|tradicional|razón|
 |-|-|-|
