@@ -14,7 +14,8 @@ Una forma de escribir más simple, regular y respetando la forma tradicional de 
 
 ## recomendaciones 
 - formas regulares (imprimido>impreso)
-- ajuste a la pronunciación (Madriz>Madrid) - - - respetando tradicional (ueco>gueco)
+- ajuste a la pronunciación (Madriz>Madrid)
+- respetando tradicional (ueco>gueco)
 - mayúsculas para nombres personales e inicios de frase
 
 ## cambios NO implementados
