@@ -11,11 +11,14 @@ Una mejor forma de escribir
 |no|h|no se pronuncia mayoritariamente|
 |y|y ll|no se diferencian mayoritariamente|
 
-## otros
+
+
+## posibles cambios
 |posible|razón|
 |-|-|
-|s z||
+|s z|mayoría no diferencian|
 |r rr||
+
 impreso imprimido
 ueco weco
 madriz
