@@ -27,4 +27,5 @@ Una forma de escribir más simple, regular y respetando la forma tradicional de 
 |ch|no causa problemas|
 |x|no causa problemas|
 
-puntuación 
+puntuación
+n m
