@@ -13,7 +13,7 @@ Una forma de escribir más simple, regular y respetando la forma tradicional de 
 
 
 
-## posibles cambios no implementados
+##posibles cambios no implementados
 |posible|razón|
 |-|-|
 |s z|mayoría no diferencian s y z|
