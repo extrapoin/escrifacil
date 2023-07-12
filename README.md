@@ -1,5 +1,5 @@
 # escrifacil
-Una forma de escribir más simple, regular y respetando la forma tradicional de escritura y formas más comunes de los hablantes
+Una forma de escribir más simple, regular, respetando la forma tradicional de escritura y formas más comunes de los hablantes
 
 |escrifacil|tradicional|razón|
 |-|-|-|
@@ -18,6 +18,8 @@ Una forma de escribir más simple, regular y respetando la forma tradicional de 
 - ajuste a la pronunciación (Madriz>Madrid)
 - respetando tradicional (ueco>gueco)
 - mayúsculas para nombres personales e inicios de frase
+- prgunta con solo ? final
+- n m ========
 
 ## cambios NO implementados
 |posible|razón|
@@ -26,6 +28,3 @@ Una forma de escribir más simple, regular y respetando la forma tradicional de 
 |r rr|no causa problemas|
 |ch|no causa problemas|
 |x|no causa problemas|
-
-puntuación
-n m
