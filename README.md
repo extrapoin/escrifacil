@@ -19,6 +19,7 @@ Una forma de escribir más simple, regular, respetando la forma tradicional de e
 - respetando tradicional (ueco>gueco)
 - mayúsculas para nombres personales e inicios de frase
 - prgunta con solo ? final
+- abecedario
 - n m ========
 
 ## cambios NO implementados
