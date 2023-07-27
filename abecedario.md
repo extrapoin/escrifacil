@@ -18,7 +18,7 @@
 |o|o|
 |p|pe|
 |q|cu|
-|r|re|
+|r|re(rre)|
 |s|se|
 |t|te|
 |u|u
