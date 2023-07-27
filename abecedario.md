@@ -27,4 +27,4 @@
 |x|ex|
 |y|ye|
 |z|ze|
-|ch|che|
+|ch(q)|che|
