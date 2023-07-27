@@ -20,6 +20,17 @@ Una forma de escribir más simple, regular, respetando la forma tradicional de e
 |y|y ll|(discutible)no se diferencian mayoritariamente|ll por y|
 |i|i y|i por y|y_ por i_ (_y_ controvertido)|
 
+
+## Prioridad 3 (existen controversias importantes o no suponen problemas)
+
+|posible|razón|
+|-|-|
+|s z|mayoría no diferencian s y z|
+|r rr|no causa problemas|
+|ch|no causa problemas|
+|x|no causa problemas|
+
+
 ## recomendaciones
 - [abecedario](abecedario.md)
 - formas regulares (imprimido>impreso)
