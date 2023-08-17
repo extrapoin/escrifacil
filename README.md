@@ -42,4 +42,4 @@ Una forma de escribir más simple, regular, respetando la forma tradicional de e
 
 cfxg
 
-xcb  <spam color=red>sfg sg</span>
+xcb  <span style="color:blue">sfg sg</span>
