@@ -39,7 +39,3 @@ Una forma de escribir más simple, regular, respetando la forma tradicional de e
 - mayúsculas para nombres personales e inicios de frase
 - prgunta con solo ? final
 - m delante de p y b
-
-cfxg
-
-xcb  <span style="color:blue">blue</span>
